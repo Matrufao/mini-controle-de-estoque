@@ -1,1 +1,0 @@
-# mini-controle-de-estoque
